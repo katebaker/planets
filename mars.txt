@@ -1,3 +1,4 @@
 as
 File in here
 try editing something else about this file
+the line added to Kate's copy
